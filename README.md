@@ -1,1 +1,2 @@
 # Body-Mass-Index-Calculator
+This is a BMI (Body Mass Index) calculator program created using the Python tkinter library for GUI. It allows users to input their weight in kilograms and height in meters, and then it calculates and displays the BMI value. The program also provides a BMI table for reference, indicating different BMI ranges and their meanings. The user can click a button to check their BMI, and the result is displayed with a color scheme, including a visually appealing interface.
